@@ -1,2 +1,2 @@
 # first-html-project
-My First HTML Project
+First Project of Bootcamp by Dr. Angela Yu
